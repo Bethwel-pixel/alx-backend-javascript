@@ -1,5 +1,6 @@
-# :book: 0x05. NodeJS Basics.
+#:book: 0x05. NodeJS Basics.
 ## :page_with_curl: Topics Covered.
+Node
 This project involves learning NodeJS basics concept covered;
 1. Using NodeJS modules
 2. Reading files
